@@ -1,4 +1,4 @@
-Download and test.html file directly
+Download and run test.html file directly
 
 
 
